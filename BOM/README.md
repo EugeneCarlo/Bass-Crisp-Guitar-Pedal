@@ -39,21 +39,22 @@
 
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
-| 1n4148 | DO-35 | 2 шт |
-| 2n5457 | TO-92 | 1 шт |
+| [1n4148](https://www.chipdip.ru/product/1n4148) | DO-35 | 2 шт |
+| [2n5457](https://www.chipdip.ru/product/2n5457-3) | TO-92 | 1 шт |
 
 ## Микросхемы
 
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
-| TL072 | DIP-8 | 2 шт |
-| OP07 | DIP-8 | 1 шт |
-| ICL7660S | DIP-8 | 1 шт |
-| LM13700 | DIP-16 | 1 шт |
+| [TL072](https://www.chipdip.ru/product/tl072cp) | DIP-8 | 2 шт |
+| [OP07](https://www.chipdip.ru/product/op07cp) | DIP-8 | 1 шт |
+| [ICL7660S](https://www.chipdip.ru/product/icl7660scpa) | DIP-8 | 1 шт |
+| [LM13700](https://www.chipdip.ru/product/lm13700n) | DIP-16 | 1 шт |
 
 ## Потенциометры
 
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
-| 100k | Линейные | 6 шт |
-| 10k | Линейные | 1 шт |
+| [100k](https://www.chipdip.ru/product/rk-1233n1-b100k) | Линейные | 3 шт |
+| [200k](https://www.chipdip.ru/product/rk-1233n1-b200k) | Линейные | 1 шт |
+| [10k](https://www.chipdip.ru/product/rk-1233n1-b10k) | Линейные | 1 шт |
