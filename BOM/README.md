@@ -23,16 +23,16 @@
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
 | [30pf](https://www.chipdip.ru/product0/9000313107) | Керамика | 1 шт |
-| 100pf | Керамика | 1 шт |
-| 470pf | Керамика | 2 шт |
-| 1nf | Пленка | 1 шт |
-| 22nf | Пленка | 2 шт |
-| 100nf | Пленка | 3 шт |
-| 100nf | SMD 1206 | 10 шт |
-| 2.2uf | Электролит | 1 шт |
-| 4.7uf | Электролит | 2 шт |
-| 10uf | Электролит | 2 шт |
-| 100uf | Электролит | 1 шт |
+| [100pf](https://www.chipdip.ru/product0/9000313108) | Керамика | 1 шт |
+| [470pf](https://www.chipdip.ru/product0/9000441569) | Керамика | 2 шт |
+| [1nf](https://www.chipdip.ru/product/b32529c1102j000) | Пленка | 1 шт |
+| [22nf](https://www.chipdip.ru/product/b32529c1223j000) | Пленка | 2 шт |
+| [100nf](https://www.chipdip.ru/product/b32529c0104k000) | Пленка | 3 шт |
+| [100nf](https://www.chipdip.ru/product0/9000697437) | SMD 1206 | 10 шт |
+| [2.2uf](https://www.chipdip.ru/product/b43828a1225m007) | Электролит | 1 шт |
+| [4.7uf](https://www.chipdip.ru/product0/9000274008) | Электролит | 2 шт |
+| [10uf](https://www.chipdip.ru/product0/9000565842) | Электролит | 2 шт |
+| [100uf](https://www.chipdip.ru/product0/9000565756) | Электролит | 1 шт |
 
 ## Диоды/Транзисторы
 
