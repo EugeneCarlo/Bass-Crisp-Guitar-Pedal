@@ -39,7 +39,7 @@
 
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
-| [1n4148](https://www.chipdip.ru/product/1n4148) | DO-35 | 2 шт |
+| [1n4148](https://a.aliexpress.com/_AchTzd) | DO-35 | 2 шт |
 | [2n5457](https://www.chipdip.ru/product/2n5457-3) | TO-92 | 1 шт |
 
 ## Микросхемы
@@ -49,7 +49,7 @@
 | [TL072](https://www.chipdip.ru/product/tl072cp) | DIP-8 | 2 шт |
 | [OP07](https://www.chipdip.ru/product/op07cp) | DIP-8 | 1 шт |
 | [ICL7660S](https://www.chipdip.ru/product/icl7660scpa) | DIP-8 | 1 шт |
-| [LM13700](https://www.chipdip.ru/product/lm13700n) | DIP-16 | 1 шт |
+| [LM13700](https://a.aliexpress.com/_AKLPgF) | DIP-16 | 1 шт |
 
 ## Потенциометры
 
