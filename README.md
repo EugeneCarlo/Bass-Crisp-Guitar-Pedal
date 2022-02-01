@@ -28,7 +28,7 @@
 
 ### [Список комплектующих](https://github.com/EugeneCarlo/Bass-Crisp-Guitar-Pedal/blob/main/BOM/README.md)
 
-### [GERBER для заказа плат](https://github.com/EugeneCarlo/Bass-Crisp-Guitar-Pedal/raw/main/PCB/Gerber_PCB_BassCrisp.zip)
+### [GERBER для заказа плат](https://github.com/EugeneCarlo/Bass-Crisp-Guitar-Pedal/raw/main/PCB/Gerber_ONE%20PCB.zip)
 
 ### [Как собрать](https://github.com/EugeneCarlo/Bass-Crisp-Guitar-Pedal/blob/main/How%20to%20assemble/README.md)
 
